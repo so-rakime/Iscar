@@ -1,0 +1,20 @@
+name: iscar_foundation
+version: 0.1.1
+description: ソ・ラキメ共和国における統治機能及び市民活動のための基盤システム   -    Infrastructure-System for Sovereign-Functions and Civil-Activities of Republic of So Rakime
+author: Haruka Sato <as.he.that.doth.serve@gmail.com>
+homepage: https://rk.dev-pack.org
+documentation: https://rk.dev-pack.org/Iscar#Foundation
+repository: https://github.com/so-rakime/Iscar
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  sqlite3: ^2.7.5
+  cron: ^0.6.1
+  pointycastle: ^4.0.0
+topics:
+  - middleware
+  - library
+  - language
+  - sdk
+  - iscar
+publish_to: none
