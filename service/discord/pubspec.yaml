@@ -1,0 +1,13 @@
+name: iscar_bot
+version: 0.1.1
+description: ソ・ラキメ共和国における統治機能及び市民活動のための基盤システム   -    Infrastructure-System for Sovereign-Functions and Civil-Activities of Republic of So Rakime
+author: Haruka Sato <as.he.that.doth.serve@gmail.com>
+homepage: https://rk.dev-pack.org
+documentation: https://rk.dev-pack.org/Iscar#Bot
+repository: https://github.com/so-rakime/Iscar
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  nyxx: ^6.6.1
+  nyxx_commands: ^6.0.4
+publish_to: none
